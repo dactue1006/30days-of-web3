@@ -1,6 +1,6 @@
 import { ethers } from "ethers";
 
-import abi from "./abi/Keyboards.json"
+import abi from "./abi/keyboards.json"
 
 const contractAddress = '0x3496752388aeFd492d4434d06667d556Cc6F3ED3';
 const contractABI = abi;
