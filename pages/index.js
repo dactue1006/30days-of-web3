@@ -1,6 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
 import PrimaryButton from "../components/primary-button";
-import keyboardABI from "../utils/abi/Keyboards.json";
 import { ethers } from "ethers";
 import Keyboard from "../components/keyboard";
 import addressesEqual from "../utils/addressesEqual";
